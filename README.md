@@ -1,4 +1,3 @@
-# Priyanka.github.io
 <h1 align="center">Hi 👋, I'm Priyanka Shaw</h1>
 <h3 align="center">Cloud Operations Associate | FinOps Cost Consultant | Microsoft Azure Infrastructure & Cost Optimization</h3>
 
@@ -75,12 +74,11 @@ Supported business process analysis, market research, and reporting for enterpri
 ### 📫 Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyanka251020000@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/REPLACE-WITH-YOUR-LINKEDIN-HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanka-shaw-b51507215)
 
 <!--
   📌 Before publishing:
-  1. Replace REPLACE-WITH-YOUR-LINKEDIN-HANDLE above with your real LinkedIn handle.
-  2. Replace YOUR-GITHUB-USERNAME below (and in the stats card) with your actual GitHub username.
+  1. Replace YOUR-GITHUB-USERNAME below (and in the stats card) with your actual GitHub username.
 -->
 
 ---
