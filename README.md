@@ -324,7 +324,7 @@
     <div class="wrap">
       <div class="section-head">
         <h2>Professional summary</h2>
-        <span class="section-tag">01 · Inform</span>
+        <span class="section-tag"></span>
       </div>
       <div class="about-grid">
         <p>
