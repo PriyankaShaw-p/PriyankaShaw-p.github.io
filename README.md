@@ -268,7 +268,7 @@
       </div>
       <h1>Priyanka Shaw<br><span class="accent">Cloud Ops &amp; FinOps,</span> built on Azure.</h1>
       <p class="role">Cloud Operations Associate · FinOps Cost Consultant · Kolkata, India</p>
-      <p class="thesis">I run and secure Azure IaaS/PaaS environments, then turn the billing data those environments generate into rightsizing, tiering, and autoscaling decisions leadership can act on.</p>
+      <p class="thesis">I run and secure Azure IaaS/PaaS environments, then turn the billing data those environments generate into rightsizing, tiering, and autoscaling decisions stakeholders can act on.</p>
       <div class="cta-row">
         <a class="btn btn-primary" href="mailto:priyanka251020000@gmail.com">
           <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 7l9 6 9-6"/><path d="M3 7v10h18V7"/></svg>
@@ -325,9 +325,11 @@
       <div class="about-grid">
         <p>
          Cloud Operations professional with 3+ years of experience designing, deploying, and optimizing Microsoft Azure infrastructure across IaaS and PaaS environments. Passionate about building secure, scalable, and cost-efficient cloud solutions that deliver both operational excellence and business value.
-
+         </p>
+         <p>
 My expertise extends beyond cloud administration into Cloud FinOps, leveraging Azure Cost Management, budgeting, governance, and optimization strategies to reduce cloud spend while maintaining enterprise-grade performance and availability. I enjoy transforming complex cloud usage data into actionable insights through Power BI and Excel dashboards, enabling stakeholders to make informed, data-driven decisions.
-
+</p>
+ <p>
 With hands-on experience in Terraform, CI/CD, and Azure security and governance, I focus on delivering reliable and efficient cloud environments. I bring strong analytical and problem-solving skills, effective communication, and a collaborative mindset to every project. Passionate about continuous learning, I actively embrace emerging technologies and evolving industry trends to stay aligned with market demands and deliver meaningful, future-ready solutions.
         </p>
         <div class="stat-list">
@@ -443,7 +445,7 @@ With hands-on experience in Terraform, CI/CD, and Azure security and governance,
           Soft skills, at the level of strategic business operations
         </h3>
         <ul class="soft-list">
-          <li><strong>Stakeholder communication</strong> — turning complex work into clear, decision-ready narratives leadership can act on.</li>
+          <li><strong>Stakeholder communication</strong> — turning complex work into clear, decision-ready narratives stakeholders can act on.</li>
           <li><strong>Critical thinking</strong> — weighing trade-offs so decisions hold up against the bigger business picture, not just the task at hand.</li>
           <li><strong>Cross-functional collaboration</strong> — aligning different teams around a shared operational goal.</li>
           <li><strong>Client-facing consulting</strong> — understanding what a client actually needs and shaping the engagement around that.</li>
