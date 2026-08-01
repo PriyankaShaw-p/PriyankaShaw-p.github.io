@@ -277,7 +277,11 @@
         <a class="btn btn-ghost" href="https://www.linkedin.com/in/priyanka-shaw-b51507215" target="_blank" rel="noopener">
           <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="7" cy="6" r="2.4"/><path d="M7 10.5v9"/><path d="M12 19.5v-5.2c0-2 1.4-3.3 3.1-3.3 1.7 0 2.9 1.2 2.9 3.3v5.2"/><path d="M12 10.5v9"/></svg>
           LinkedIn
-        
+        </a>
+        <a class="btn btn-ghost" href="https://github.com/priyankashaw-p" target="_blank" rel="noopener">
+          <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="8 7 3 12 8 17"/><polyline points="16 7 21 12 16 17"/></svg>
+          GitHub
+        </a>
       </div>
     </div>
 
