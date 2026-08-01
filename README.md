@@ -325,11 +325,9 @@
       <div class="about-grid">
         <p>
          Cloud Operations professional with 3+ years of experience designing, deploying, and optimizing Microsoft Azure infrastructure across IaaS and PaaS environments. Passionate about building secure, scalable, and cost-efficient cloud solutions that deliver both operational excellence and business value.
-         </p>
-         <p>
+          
 My expertise extends beyond cloud administration into Cloud FinOps, leveraging Azure Cost Management, budgeting, governance, and optimization strategies to reduce cloud spend while maintaining enterprise-grade performance and availability. I enjoy transforming complex cloud usage data into actionable insights through Power BI and Excel dashboards, enabling stakeholders to make informed, data-driven decisions.
-</p>
- <p>
+
 With hands-on experience in Terraform, CI/CD, and Azure security and governance, I focus on delivering reliable and efficient cloud environments. I bring strong analytical and problem-solving skills, effective communication, and a collaborative mindset to every project. Passionate about continuous learning, I actively embrace emerging technologies and evolving industry trends to stay aligned with market demands and deliver meaningful, future-ready solutions.
         </p>
         <div class="stat-list">
