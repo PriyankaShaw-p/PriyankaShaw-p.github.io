@@ -270,7 +270,7 @@
       <p class="role">Cloud Operations Associate · FinOps Cost Consultant · Kolkata, India</p>
       <p class="thesis">I run and secure Azure IaaS/PaaS environments, then turn the billing data those environments generate into rightsizing, tiering, and autoscaling decisions leadership can act on.</p>
       <div class="cta-row">
-        <a class="btn btn-primary" href="mailto:priyankashaw251020000@gmail.com">
+        <a class="btn btn-primary" href="mailto:priyanka251020000@gmail.com">
           <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 7l9 6 9-6"/><path d="M3 7v10h18V7"/></svg>
           Email me
         </a>
@@ -562,13 +562,13 @@
         <span class="section-tag">Contact</span>
       </div>
       <div class="contact-grid">
-        <a class="contact-card" href="mailto:priyankashaw251020000@gmail.com">
+        <a class="contact-card" href="mailto:priyanka251020000@gmail.com">
           <span class="icon-wrap">
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 7l9 6 9-6"/><path d="M3 7v10h18V7"/></svg>
           </span>
           <div>
             <div class="c-label">Email</div>
-            <div class="c-value">priyankashaw251020000@gmail.com</div>
+            <div class="c-value">priyanka251020000@gmail.com</div>
           </div>
         </a>
         <a class="contact-card" href="https://www.linkedin.com/in/priyanka-shaw-b51507215" target="_blank" rel="noopener">
