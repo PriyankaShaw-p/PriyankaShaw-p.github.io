@@ -366,7 +366,7 @@
         <div class="loop-steps">
           <div class="loop-step">
             <span class="num-badge">1</span>
-            <div><h4>Inform</h4><p>Surface spend visibility with Cost Management, Billing exports, and Power BI dashboards leadership can read at a glance.</p></div>
+            <div><h4>Inform</h4><p>Surface spend visibility with Cost Management, Billing exports, and Power BI dashboards that stakeholders can read at a glance.</p></div>
           </div>
           <div class="loop-step">
             <span class="num-badge">2</span>
