@@ -385,7 +385,7 @@
     <div class="wrap">
       <div class="section-head">
         <h2>Skills</h2>
-        <span class="section-tag">02 · Optimize</span>
+        <span class="section-tag"></span>
       </div>
       <div class="skills-cols">
         <div class="skill-card">
@@ -462,7 +462,7 @@
     <div class="wrap">
       <div class="section-head">
         <h2>Experience</h2>
-        <span class="section-tag">02 · Optimize</span>
+        <span class="section-tag"></span>
       </div>
       <div class="pipeline">
         <div class="job">
@@ -509,7 +509,7 @@
     <div class="wrap">
       <div class="section-head">
         <h2>Certifications</h2>
-        <span class="section-tag">03 · Operate</span>
+        <span class="section-tag"></span>
       </div>
       <div class="cert-grid">
         <div class="cert"><svg class="badge-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M12 2l8 3.5v6c0 5-3.4 8.4-8 10.5-4.6-2.1-8-5.5-8-10.5v-6L12 2z"/><path d="M8.5 12l2.3 2.3L16 9.5"/></svg><div><div class="code">AZ-305</div><div class="name">Azure Solutions Architect Expert</div></div></div>
@@ -528,7 +528,7 @@
     <div class="wrap">
       <div class="section-head">
         <h2>Education &amp; languages</h2>
-        <span class="section-tag">03 · Operate</span>
+        <span class="section-tag"></span>
       </div>
       <div class="split">
         <div>
