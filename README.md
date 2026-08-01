@@ -588,7 +588,7 @@
 
 <footer>
   <div class="wrap">
-    <p class="footer-note">Open to Cloud Operations, FinOps, and Azure infrastructure roles. Kolkata, India.</p>
+    <p class="footer-note">Open to Cloud Operations and FinOps roles globally, with strong adjacent fit for Infrastructure/IT Support and strategic or functional positions.</p>
   </div>
 </footer>
 
